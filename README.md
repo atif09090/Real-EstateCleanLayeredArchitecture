@@ -7,7 +7,7 @@ This is a **Real Estate Management API** built with **.NET 8**, **Entity Framewo
 ## 📂 Project Structure
 
 ```
-/RealEstateAPI
+/Real-EstateCleanLayeredArchitecture
 ├── Controllers # API endpoints
 ├── Services # Business logic layer
 ├── Repositories # Data access logic
