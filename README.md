@@ -177,9 +177,6 @@ dotnet add package Swashbuckle.AspNetCore
 ```
 
 
-📄 License
-This project is open-source and available under the MIT License.
-
 ---
 🤝 Contributing
 Feel free to fork this repo and open a pull request with improvements or bug fixes. Happy coding!
