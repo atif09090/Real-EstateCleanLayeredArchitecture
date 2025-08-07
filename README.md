@@ -178,7 +178,6 @@ dotnet add package Swashbuckle.AspNetCore
 
 
 ---
-🤝 Contributing
-Feel free to fork this repo and open a pull request with improvements or bug fixes. Happy coding!
+
 
 
