@@ -15,7 +15,6 @@ This is a **Real Estate Management API** built with **.NET 8**, **Entity Framewo
 ├── DTOs # Data Transfer Objects
 ├── Mappings # AutoMapper profiles
 ├── Data # DbContext and seeders
-├── Middleware # (optional) JWT middleware
 ├── Program.cs # Entry point & DI setup
 ├── appsettings.json # Configuration
 
